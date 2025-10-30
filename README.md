@@ -30,3 +30,9 @@ Note: Some functions are placeholders or work in progress (WIP).
 
 ## Support
 For bugs or feature requests, please open an [issue](https://github.com/vasilywarmare/AIChatEnhancer/issues).
+
+✅ Development / Verification TODO
+   Phase	          Priority    Tasks
+- Stability	          High	  Memory leak test, performance benchmark, verify existing features, unify resource management
+- Platform Adapters	 Medium	  Test all platforms, optimise selector priority, build detection cache
+- UI/UX	               Low	  Refactor styles, optimise Mermaid export, unify cursor colours
