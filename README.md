@@ -6,7 +6,7 @@ Development is currently paused, but this repository serves as a technical showc
 
 Enhances ChatGPT and other AI platforms with:
 
-- Full conversation copy/export (improving native Share limitations)
+- Full conversation copy / export (improving native Share limitations)
 - Message stream tracking ("hook" concept)
 - Performance optimisations for heavy DOM rendering
 - UI/UX improvements (styles, cursors, export formats)
