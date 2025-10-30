@@ -11,10 +11,10 @@
 // @match        https://claude.ai/*              
 // @run-at       document-idle
 // @grant        none
-// @homepageURL  https://github.com/vasilywarmare/ChatGPT-Virtualiser-Counter-Export
-// @supportURL   https://github.com/vasilywarmare/ChatGPT-Virtualiser-Counter-Export/issues
-// @updateURL    https://raw.githubusercontent.com/vasilywarmare/ChatGPT-Virtualiser-Counter-Export/main/ChatGPT-Virtualiser-Counter-Export.user.js
-// @downloadURL  https://raw.githubusercontent.com/vasilywarmare/ChatGPT-Virtualiser-Counter-Export/main/ChatGPT-Virtualiser-Counter-Export.user.js
+// @homepageURL  https://github.com/vasilywarmare/AIChatEnhancer
+// @supportURL   https://github.com/vasilywarmare/AIChatEnhancer/issues
+// @updateURL    https://raw.githubusercontent.com/vasilywarmare/AIChatEnhancer/main/AIChatEnhancer.user.js
+// @downloadURL  https://raw.githubusercontent.com/vasilywarmare/AIChatEnhancer/main/AIChatEnhancer.user.js
 // ==/UserScript==
 
 "use strict";
@@ -2380,3 +2380,4 @@ CheckBrowserSupport();
 InitialiseState(State);
 
 Main();
+
