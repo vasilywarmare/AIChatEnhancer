@@ -25,7 +25,7 @@ Note: Some functions are placeholders or work in progress (WIP).
 - Copy / Export button (download chat logs)
 - Initial SPA support (Single Page Application platforms)
 
-✅ Development / Verification TODO
+## ✅ Development / Verification TODO
 - Stability: Memory leak test, performance benchmark, verify existing features, unify resource management
 - Adapters: Test all platforms, optimise selector priority, build detection cache
 - UI/UX: Refactor styles, optimise Mermaid export, unify cursor colours
