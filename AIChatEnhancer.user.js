@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AI Chat Enhancer
 // @namespace    https://github.com/vasilywarmare
-// @version      2.0
+// @version      0.9
 // @description  Enhances AI chat platforms with message virtualisation, live counter, and export functionality
 // @author       WarmarE
 // @match        https://chat.openai.com/*
@@ -2378,4 +2378,5 @@ function Main()
 // Auto-execute when script loads - initialises all components and starts monitoring
 CheckBrowserSupport();
 InitialiseState(State);
+
 Main();
