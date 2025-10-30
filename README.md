@@ -27,7 +27,7 @@ Note: Some functions are placeholders or work in progress (WIP).
 
 ✅ Development / Verification TODO
 - Stability: Memory leak test, performance benchmark, verify existing features, unify resource management
-- Platform Adapters: Test all platforms, optimise selector priority, build detection cache
+- Adapters: Test all platforms, optimise selector priority, build detection cache
 - UI/UX: Refactor styles, optimise Mermaid export, unify cursor colours
 
 ## Screenshot
