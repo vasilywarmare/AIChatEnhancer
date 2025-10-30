@@ -1,15 +1,15 @@
 # AIChatEnhancer
-A Tampermonkey userscript prototype extending ChatGPT-Virtualiser-Counter-Export.
+A Tampermonkey userscript prototype extending ChatGPT-Virtualiser-Counter-Export. <br>
 Development is currently paused, but this repository serves as a technical showcase and reference.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 Enhances ChatGPT and other AI platforms with:
 
-Full conversation copy/export (improving native Share limitations)
-Message stream tracking ("hook" concept)
-Performance optimisations for heavy DOM rendering
-UI/UX improvements (styles, cursors, export formats)
+- Full conversation copy/export (improving native Share limitations)
+- Message stream tracking ("hook" concept)
+- Performance optimisations for heavy DOM rendering
+- UI/UX improvements (styles, cursors, export formats)
 
 Note: Some functions are placeholders or work in progress (WIP).
 
@@ -19,11 +19,10 @@ Note: Some functions are placeholders or work in progress (WIP).
 3. Confirm installation in Tampermonkey.
 
 ## ⚡ Current Features (Partial / Prototype)
-
 - Expended from ChatGPT only to all AI platforms
 - Virtualiser toggle (enable/disable)
 - Message Counter (tracks token usage)
-- Export button (download chat logs)
+- Copy / Export button (download chat logs)
 - Initial SPA support (Single Page Application platforms)
 
 ## Screenshot
